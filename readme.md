@@ -8,4 +8,5 @@ level of IMPORTANCE (or combination of two), based on your setting. you mark how
 Enjoy the app that makes everything clear for you!
 
 
-![Alt text](https://github.com/RinaYuWorkStation/iOS-hustleEveryDay/blob/master/Icon-App-60x60%402x.png)
+
+![Alt text](Icon-App-60x60%402x.png?raw=true "logo")

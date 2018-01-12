@@ -13,17 +13,24 @@ LOGO
 Main Page and Swipe to see side bar
 ![Alt text](WX20180112-001612@2x.png?raw=true "logo")
 
-Drag new task
+Draft new task
 ![Alt text](WX20180112-001418@2x.png?raw=true "logo")
+
 
 Autocomplete place search 
 ![Alt text](WechatIMG194.jpeg?raw=true "logo")
 
-Map zoom to current and marker of destination 
+
+
+Map auto zoom to current and marker of destination 
 ![Alt text](WechatIMG195.jpeg?raw=true "logo")
+
+
 
 Setting (choose one or both, weight given to two in the case)
 ![Alt text](WechatIMG191.jpeg?raw=true "logo")
+
+
 
 Edit in the detail view from clicking on table cell
 ![Alt text](WechatIMG192.jpeg?raw=true "logo")

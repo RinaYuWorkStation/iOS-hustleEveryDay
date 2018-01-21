@@ -5,8 +5,10 @@ to see side bar, great for procratinater and perfectionaist to get their job ord
 now the app is functioning with ability to add and edit tasks, and can prioritize for you based on proximity of DEADLINE or 
 level of IMPORTANCE (or combination of two), based on your setting. you mark how much the task is important to you by clinking on the hearts to give it a score. Google Maps SDK is also implemented to mark current and task location, and can link to the google map app. 
 
-Enjoy the app that makes everything clear for you! Just download the zip file
 MUST OPEN WITH the xcworkspace file instead of the xcodeproj file!!!!!
+Enjoy the app that makes everything clear for you! Just download the zip file.
+
+
 
 LOGO
 ![Alt text](Icon-App-60x60%402x.png?raw=true "logo")
